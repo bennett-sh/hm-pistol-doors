@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "BSh.PistolDoors",
+	"name": "Open doors with pistols",
+	"description": "Doors now only need one shot by a pistol to be opened.",
+	"authors": ["BSh"],
+	"contentFolders": ["content"],
 	"frameworkVersion": "2.15.1"
 }

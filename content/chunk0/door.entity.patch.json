@@ -1,0 +1,43 @@
+{
+	"tempHash": "00376B0AC9245C86",
+	"tbluHash": "00B1F78AD5118A59",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"b219e3a131024a3a",
+				{ "SetPropertyValue": { "property_name": "m_nShotsThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"b219e3a131024a3a",
+				{ "SetPropertyValue": { "property_name": "m_fDamageThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1ddc43335fc0ab18",
+				{ "SetPropertyValue": { "property_name": "m_nShotsThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"1ddc43335fc0ab18",
+				{ "SetPropertyValue": { "property_name": "m_fDamageThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"975b6c7afe7dc753",
+				{ "SetPropertyValue": { "property_name": "m_nShotsThreshold", "value": 1 } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"975b6c7afe7dc753",
+				{ "SetPropertyValue": { "property_name": "m_fDamageThreshold", "value": 1 } }
+			]
+		}
+	],
+	"patchVersion": 6
+}
